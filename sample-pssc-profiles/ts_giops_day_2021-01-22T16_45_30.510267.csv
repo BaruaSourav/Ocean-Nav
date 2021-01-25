@@ -1,6 +1,6 @@
 // Dataset: giops_day,,,,,,
 // Timestamp: 2021-01-31 12:00:00+00:00,,,,,,
-Latitude, Longitude, Depth (m), Pressure, Salinity, Temperature, Sound Speed
+Latitude, Longitude,Depth (m),Pressure,Salinity,Temperature,Sound Speed
 48.3319,-61.1627,0.5,0.5,30.8,1.1,1448.4
 48.3319,-61.1627,1.5,1.6,30.8,1.1,1448.5
 48.3319,-61.1627,2.6,2.7,30.8,1.1,1448.5
