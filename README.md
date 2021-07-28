@@ -12,6 +12,13 @@ This repository contains the development of two acoustic variables
     - ~~Get feedback from DND~~
 
 - Prepare the routine to integrate with ONAV
-    - Transform the routine to a n-dimensional form to be able to used as derived variable in ONAV
+    - ~~Transform the routine to an n-dimensional form to be able to used as derived variable in ONAV~~
         - ~~Prepare the delC calculation routine to return _ndarray_ instead of a single value~~
-        - ~~Prepare the sub-surface chanel detection routine to return an _ndrray_ of boolean which will indicate the existence of sub-surface channel~~
+        - ~~Prepare the sub-surface channel detection routine to return an _ndrray_ of boolean which will indicate the existence of sub-surface channel~~
+    - ~~Insert the PSSC Routine to navigator's *functions.py* file~~
+    - ~~Test in staging and decide the colormap~~
+    - ~~Push this derived variable to production~~
+### Slope of Something 
+- ~~Move the POC slope of something code to a seperate Jupyter Notebook~~
+- ~~Share the notebook and queries we have for them with DND~~
+- Waiting for DND's feedback on the questions. 
