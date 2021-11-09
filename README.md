@@ -21,4 +21,6 @@ This repository contains the development of two acoustic variables
 ### Slope of Something 
 - ~~Move the POC slope of something code to a seperate Jupyter Notebook~~
 - ~~Share the notebook and queries we have for them with DND~~
-- Waiting for DND's feedback on the questions. 
+- ~~Waiting for DND's feedback on the questions.~~
+
+
