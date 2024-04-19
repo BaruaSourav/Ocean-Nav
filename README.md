@@ -1,7 +1,7 @@
 # Ocean-Nav
 This repository contains the development of two acoustic variables 
 - *Potential Sub Surface Channel* which conveys the existence of a subsurface channel from a given sound speed profile.
-- [WIP] *Slope of Something (Slope of Sound Profile)* that will indicate the amount of sound wave that is trapped inside a sound channel.
+- Slope of Sound Profile, that will indicate the amount of sound wave that is trapped inside a sound channel.
 
 ## Notes
 ### Potential Sub-Surface Channel
@@ -18,7 +18,7 @@ This repository contains the development of two acoustic variables
     - ~~Insert the PSSC Routine to navigator's *functions.py* file~~
     - ~~Test in staging and decide the colormap~~
     - ~~Push this derived variable to production~~
-### Slope of Something 
+### Slope of Sound Profile
 - ~~Move the POC slope of something code to a seperate Jupyter Notebook~~
 - ~~Share the notebook and queries we have for them with DND~~
 - ~~Waiting for DND's feedback on the questions.~~
